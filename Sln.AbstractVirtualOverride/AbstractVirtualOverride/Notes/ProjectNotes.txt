@@ -1,0 +1,26 @@
+﻿
+
+From this project you will find:
+
+01. Default Constructor
+02. Parametrized Constructor
+03. Abstract class 
+04. Base class
+05. Virtual Override key words
+06. Upcasting 
+07. Downcasting
+08. Full implemented, Partial implemented, Not implemented
+
+
+***Abstract class: classes that only represent base classes, 
+and don’t want anyone to create objects of these class types.
+
+***Virtual keyword is used within a set with override keyword.
+
+***Override keyword is used with virtual keyword.
+
+
+
+
+
+
